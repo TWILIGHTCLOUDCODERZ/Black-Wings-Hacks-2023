@@ -17,8 +17,7 @@
 ## How we built it
 
 &emsp;&emsp;Built using Java, Html, Css for front end and back end data stored via form through sharepoint.
-
-![datapbi](https://user-images.githubusercontent.com/101945531/193435888-f7776a88-53ab-48ce-83cc-bac60796db25.JPG)
+![image](https://user-images.githubusercontent.com/101945531/216828168-397a13db-2e42-4a09-83c5-fac28b46f717.png)
 
 ## Challenges we ran into
 &emsp;&emsp;Power query editor Dax formula quite made complex for output data visualization. 
