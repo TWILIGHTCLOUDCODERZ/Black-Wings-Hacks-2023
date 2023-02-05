@@ -1,3 +1,4 @@
+Black-Wings-Hacks-2023
 
 
 ## Inspiration
@@ -29,7 +30,7 @@
 
 MIT License
 
-Copyright (c) 2022 DEEPAN,KAVYA
+Copyright (c) 2023 KAVYA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
