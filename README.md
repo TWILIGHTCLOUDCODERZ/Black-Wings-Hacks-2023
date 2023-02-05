@@ -2,8 +2,6 @@
 ## Inspiration
 &emsp;&emsp;Inspired by Mr.Beast- Team Trees, stylized as #TEAMTREES, is a collaborative fundraiser that raised 20 million U.S. dollars before the start of 2020 to plant 20 million trees. The initiative was started by American YouTubers MrBeast and Mark Rober, and was mostly supported by YouTubers.
 
-&emsp;&emsp;Inspired by Jane Goodall braved a realm of unknowns to give the world a remarkable window into humankind’s closest living relatives. Through nearly 60 years of groundbreaking work, Dr. Jane Goodall has not only shown us the urgent need to protect chimpanzees from extinction; she has also redefined species conservation to include the needs of local people and the environment. Today she travels the world, speaking about the threats facing chimpanzees and environmental crises, urging each of us to take action on behalf of all living things and planet we share.
-
 ## What it does
 ![earth1](https://user-images.githubusercontent.com/101945531/193435883-aec03aa4-b5ca-4b6e-b2e5-95092767b001.JPG)
 
